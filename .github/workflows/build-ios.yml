@@ -13,8 +13,10 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repository with LFS
       uses: actions/checkout@v2
+      with:
+        lfs: true   # <-- ensure LFS files are pulled
 
     - name: Download Godot
       run: |
@@ -45,7 +47,6 @@ jobs:
     - name: Set iOS Deployment Target
       run: sed -i '' 's/IPHONEOS_DEPLOYMENT_TARGET = 10.0;/IPHONEOS_DEPLOYMENT_TARGET = 12.0;/' build/yks.xcodeproj/project.pbxproj
 
-
     - name: Build iOS project
       run: xcodebuild -project build/yks.xcodeproj -scheme yks -configuration Development -archivePath build/yks.xcarchive archive \ CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO
 
@@ -59,6 +60,7 @@ jobs:
         mv yks.app Payload/
         zip -r App.ipa Payload/
         mv App.ipa ../../../
+
     - name: Upload IPA to GitHub Artifacts
       uses: actions/upload-artifact@v4
       with:
