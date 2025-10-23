@@ -13,10 +13,8 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - name: Checkout repository with LFS
+    - name: Checkout repository
       uses: actions/checkout@v2
-      with:
-        lfs: true   # <-- ensure LFS files are pulled
 
     - name: Download Godot
       run: |
@@ -27,18 +25,14 @@ jobs:
 
     - name: Download Godot Export Templates
       run: |
-        # Create the correct folder for Godot 4.3 export templates
-        mkdir -p ~/Library/Application\ Support/Godot/export_templates/4.3.stable
-        cd ~/Library/Application\ Support/Godot/export_templates/4.3.stable
-
-        # Download the templates
+        mkdir -p ~/Library/Application\ Support/Godot/templates/4.3.stable
+        cd ~/Library/Application\ Support/Godot/templates/4.3.stable
         wget https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_export_templates.tpz
-
-        # Extract them directly into this folder
-        tar -xzf Godot_v4.3-stable_export_templates.tpz --strip-components=1
-
-        # Verify that ios.zip and other templates are in place
-        ls -l
+        tar -xzf Godot_v4.3-stable_export_templates.tpz -C ~/Library/Application\ Support/Godot/templates/4.3.stable
+        cd templates
+        mv * ..
+        cd ..
+        ls
 
     - name: Create build directory
       run: mkdir -p build
@@ -47,23 +41,26 @@ jobs:
       run: godot --export-debug "iOS" build/yks.xcodeproj
       env:
         DISPLAY: :99.0
-        
+
     - name: Set iOS Deployment Target
       run: sed -i '' 's/IPHONEOS_DEPLOYMENT_TARGET = 10.0;/IPHONEOS_DEPLOYMENT_TARGET = 12.0;/' build/yks.xcodeproj/project.pbxproj
 
-    - name: Build iOS project
-      run: xcodebuild -project build/yks.xcodeproj -scheme yks -configuration Development -archivePath build/yks.xcarchive archive \ CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO
+    - name: Build iOS project (unsigned)
+      run: |
+        xcodebuild -project build/yks.xcodeproj -scheme yks \
+          -configuration Development \
+          -archivePath build/yks.xcarchive archive \
+          CODE_SIGN_IDENTITY="" \
+          CODE_SIGNING_REQUIRED=NO \
+          CODE_SIGNING_ALLOWED=NO
 
-    - name: Export IPA
-      run: | 
+    - name: Export unsigned IPA
+      run: |
         cd build
-        cd yks.xcarchive
-        cd Products
-        cd Applications
-        mkdir Payload
-        mv yks.app Payload/
+        mkdir -p Payload
+        cp -r yks.xcarchive/Products/Applications/yks.app Payload/
         zip -r App.ipa Payload/
-        mv App.ipa ../../../
+        mv App.ipa ../
 
     - name: Upload IPA to GitHub Artifacts
       uses: actions/upload-artifact@v4
