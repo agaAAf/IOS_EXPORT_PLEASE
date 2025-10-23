@@ -27,14 +27,18 @@ jobs:
 
     - name: Download Godot Export Templates
       run: |
-        mkdir -p ~/Library/Application\ Support/Godot/templates/4.3-stable
-        cd ~/Library/Application\ Support/Godot/templates/4.3-stable
+        # Create the correct folder for Godot 4.3 export templates
+        mkdir -p ~/Library/Application\ Support/Godot/export_templates/4.3.stable
+        cd ~/Library/Application\ Support/Godot/export_templates/4.3.stable
+
+        # Download the templates
         wget https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_export_templates.tpz
-        tar -xzf Godot_v4.3-stable_export_templates.tpz -C ~/Library/Application\ Support/Godot/templates/4.3-stable
-        cd templates
-        mv * ..
-        cd ..
-        ls
+
+        # Extract them directly into this folder
+        tar -xzf Godot_v4.3-stable_export_templates.tpz --strip-components=1
+
+        # Verify that ios.zip and other templates are in place
+        ls -l
 
     - name: Create build directory
       run: mkdir -p build
