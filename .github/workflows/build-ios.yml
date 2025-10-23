@@ -13,8 +13,10 @@ jobs:
     runs-on: macos-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repository with LFS
       uses: actions/checkout@v2
+      with:
+        lfs: true  # ensures LFS files are pulled
 
     - name: Download Godot
       run: |
@@ -25,14 +27,18 @@ jobs:
 
     - name: Download Godot Export Templates
       run: |
-        mkdir -p ~/Library/Application\ Support/Godot/templates/4.3.stable
-        cd ~/Library/Application\ Support/Godot/templates/4.3.stable
+        # Correct folder for Godot 4.3 export templates
+        mkdir -p ~/Library/Application\ Support/Godot/export_templates/4.3.stable
+        cd ~/Library/Application\ Support/Godot/export_templates/4.3.stable
+
+        # Download the official export templates
         wget https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_export_templates.tpz
-        tar -xzf Godot_v4.3-stable_export_templates.tpz -C ~/Library/Application\ Support/Godot/templates/4.3.stable
-        cd templates
-        mv * ..
-        cd ..
-        ls
+
+        # Extract directly into the folder so ios.zip and others are in place
+        tar -xzf Godot_v4.3-stable_export_templates.tpz --strip-components=1
+
+        # Confirm ios.zip is present
+        ls -l
 
     - name: Create build directory
       run: mkdir -p build
