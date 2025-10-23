@@ -1,0 +1,19 @@
+[gd_resource type="StandardMaterial3D" load_steps=4 format=3 uid="uid://banjm1mhp0e3w"]
+
+[ext_resource type="Texture2D" uid="uid://dhikxxfpf1pp8" path="res://legogame/newlocation/just_office3_stand_Base Color.png" id="1_28tk7"]
+[ext_resource type="Texture2D" uid="uid://u1jqd8b08xuw" path="res://legogame/newlocation/just_office3_Material.png" id="2_w5nsf"]
+[ext_resource type="Texture2D" uid="uid://cgso76lbpo3vu" path="res://legogame/newlocation/just_office3_stand_normal.png" id="3_2bexk"]
+
+[resource]
+resource_name = "Material.010"
+cull_mode = 2
+vertex_color_use_as_albedo = true
+albedo_texture = ExtResource("1_28tk7")
+metallic = 1.0
+metallic_texture = ExtResource("2_w5nsf")
+metallic_texture_channel = 2
+roughness = 0.5
+roughness_texture = ExtResource("2_w5nsf")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_texture = ExtResource("3_2bexk")

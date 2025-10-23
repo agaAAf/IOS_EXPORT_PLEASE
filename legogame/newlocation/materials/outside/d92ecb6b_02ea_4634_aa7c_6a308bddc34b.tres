@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bbghlraotjno2"]
+
+[ext_resource type="Texture2D" uid="uid://c8gyylksqgjlj" path="res://legogame/newlocation/outside1_d92ecb6b_02ea_4634_aa7c_6a308bddc34b.png" id="1_d8wmr"]
+
+[resource]
+resource_name = "d92ecb6b_02ea_4634_aa7c_6a308bddc34b"
+transparency = 4
+cull_mode = 2
+albedo_texture = ExtResource("1_d8wmr")

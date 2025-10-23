@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bvybpp15kvlsu"
+path.s3tc="res://.godot/imported/SIMCARDS_airporttt_14.png-818302cc40a68060ec8b70948a52a6a1.s3tc.ctex"
+path.etc2="res://.godot/imported/SIMCARDS_airporttt_14.png-818302cc40a68060ec8b70948a52a6a1.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "c2a5db6831fa85db92752030ce79d419"
+}
+
+[deps]
+
+source_file="res://scene/airport/SIMCARDS_airporttt_14.png"
+dest_files=["res://.godot/imported/SIMCARDS_airporttt_14.png-818302cc40a68060ec8b70948a52a6a1.s3tc.ctex", "res://.godot/imported/SIMCARDS_airporttt_14.png-818302cc40a68060ec8b70948a52a6a1.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

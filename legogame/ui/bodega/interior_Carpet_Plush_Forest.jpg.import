@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bgyuhd8v2u7gi"
+path.s3tc="res://.godot/imported/interior_Carpet_Plush_Forest.jpg-17cbd9c8b1ee72ce573b0744c87c5eef.s3tc.ctex"
+path.etc2="res://.godot/imported/interior_Carpet_Plush_Forest.jpg-17cbd9c8b1ee72ce573b0744c87c5eef.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "a55b129ea2e9a03c9489a08a33582281"
+}
+
+[deps]
+
+source_file="res://legogame/ui/bodega/interior_Carpet_Plush_Forest.jpg"
+dest_files=["res://.godot/imported/interior_Carpet_Plush_Forest.jpg-17cbd9c8b1ee72ce573b0744c87c5eef.s3tc.ctex", "res://.godot/imported/interior_Carpet_Plush_Forest.jpg-17cbd9c8b1ee72ce573b0744c87c5eef.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

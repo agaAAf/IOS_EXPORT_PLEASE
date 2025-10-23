@@ -1,0 +1,16 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://duflbuoo02q8s"]
+
+[ext_resource type="Texture2D" uid="uid://b307hgn7h6vdm" path="res://legogame/newlocation/ouside2/office2out_Metal Roughness.png" id="1_wfg2h"]
+[ext_resource type="Texture2D" uid="uid://dup31i7klvk4d" path="res://legogame/newlocation/ouside2/office2out_Metal Normal.png" id="2_86slo"]
+
+[resource]
+resource_name = "Metal"
+cull_mode = 2
+albedo_color = Color(0.906332, 0.906332, 0.906332, 1)
+metallic = 1.0
+metallic_texture = ExtResource("1_wfg2h")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("1_wfg2h")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_texture = ExtResource("2_86slo")

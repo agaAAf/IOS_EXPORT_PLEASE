@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://b7pikbccyjlkp"]
+
+[ext_resource type="FontFile" uid="uid://dcjsg55jntuga" path="res://DigitTech16-Regular.otf" id="1_8bnot"]
+
+[resource]
+default_font = ExtResource("1_8bnot")
+default_font_size = 128

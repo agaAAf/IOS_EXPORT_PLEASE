@@ -1,0 +1,207 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://bgx6fl7eo2iun"
+path="res://.godot/imported/outside1.glb-bc4f1ad3705c1eea72091ac5f7e2e472.scn"
+
+[deps]
+
+source_file="res://legogame/newlocation/outside1.glb"
+dest_files=["res://.godot/imported/outside1.glb-bc4f1ad3705c1eea72091ac5f7e2e472.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+meshes/ensure_tangents=true
+meshes/generate_lods=false
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path=""
+_subresources={
+"materials": {
+"Color_005": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/Color_005.tres"
+},
+"Floor_Tile_": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/Floor_Tile_.tres"
+},
+"FrontColor": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/FrontColor.tres"
+},
+"Japanese_Wood": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/Japanese_Wood.tres"
+},
+"M_0135_DarkGray": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_0135_DarkGray.tres"
+},
+"M_1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_1.tres"
+},
+"M_2": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_2.tres"
+},
+"M_2501443e_86b7_446e_bb07_907bb1b670b9": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_2501443e_86b7_446e_bb07_907bb1b670b9.tres"
+},
+"M_3": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_3.tres"
+},
+"M_4": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_4.tres"
+},
+"M_5": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_5.tres"
+},
+"M_970cfbed_f13d_477a_92de_707215cbddb5": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/M_970cfbed_f13d_477a_92de_707215cbddb5.tres"
+},
+"Material": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/Material.tres"
+},
+"PNG1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/PNG1.tres"
+},
+"PNG2": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/PNG2.tres"
+},
+"Panel_White": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/Panel_White.tres"
+},
+"Textile_Striped_Green2": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/Textile_Striped_Green2.tres"
+},
+"White_Wall_Panels": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/White_Wall_Panels.tres"
+},
+"_93": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/_93.tres"
+},
+"_Blinds_Roman_Hobbled_Blue_1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/_Blinds_Roman_Hobbled_Blue_1.tres"
+},
+"_Color_000_2": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/_Color_000_2.tres"
+},
+"_Color_008_1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/_Color_008_1.tres"
+},
+"_GLASS": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/_GLASS.tres"
+},
+"_Metal_Corrogated_Shiny_8": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/_Metal_Corrogated_Shiny_8.tres"
+},
+"_Translucent_Glass_Gray_1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/_Translucent_Glass_Gray_1.tres"
+},
+"bricks": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/bricks.tres"
+},
+"bricks.001": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/bricks11.tres"
+},
+"bricks.003": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/bricks.003.tres"
+},
+"cement": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/cement.tres"
+},
+"d92ecb6b_02ea_4634_aa7c_6a308bddc34b": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/d92ecb6b_02ea_4634_aa7c_6a308bddc34b.tres"
+},
+"fron": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/fron.tres"
+},
+"glass_001": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/glass_001.tres"
+},
+"kondey": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/kondey.tres"
+},
+"kozirok": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/kozirok.tres"
+},
+"top": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/top.tres"
+},
+"vent": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/vent.tres"
+},
+"walls": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/walls.tres"
+},
+"walls.001": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/walls.001.tres"
+},
+"windows": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/windows.tres"
+},
+"yellow": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/yellow.tres"
+},
+"zabor": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/zabor.tres"
+},
+"zabor2": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/newlocation/materials/outside/zabor2.tres"
+}
+}
+}
+gltf/naming_version=1
+gltf/embedded_image_handling=1

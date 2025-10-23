@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://cj61v6unykseq"]
+
+[ext_resource type="Texture2D" uid="uid://bcr666ldqy8as" path="res://legogame/newlocation/just_office3_stoyka.png" id="1_brurk"]
+[ext_resource type="Texture2D" uid="uid://bih46qlt66v3x" path="res://legogame/newlocation/just_office3_stoyka Normal.png" id="2_bkuvy"]
+
+[resource]
+resource_name = "stoyka.001"
+cull_mode = 2
+albedo_texture = ExtResource("1_brurk")
+roughness = 0.5
+normal_enabled = true
+normal_texture = ExtResource("2_bkuvy")

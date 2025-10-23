@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://b8qawbnjq363u"]
+
+[ext_resource type="Texture2D" uid="uid://pq0ewp2wd55" path="res://legogame/newlocation/just_office3_down Base Color.png" id="1_jfb4k"]
+
+[resource]
+resource_name = "down"
+cull_mode = 2
+albedo_texture = ExtResource("1_jfb4k")
+roughness = 0.5

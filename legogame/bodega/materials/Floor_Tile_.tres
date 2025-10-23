@@ -1,0 +1,5 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://blpplit73ejvm"]
+
+[resource]
+resource_name = "Floor_Tile_"
+cull_mode = 2

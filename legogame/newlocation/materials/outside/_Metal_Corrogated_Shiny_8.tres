@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bx6hm2f1ythp4"]
+
+[ext_resource type="Texture2D" uid="uid://bt4uhdo7y5vsu" path="res://legogame/newlocation/outside1__Metal_Corrogated_Shiny_8.jpg" id="1_04m8i"]
+
+[resource]
+resource_name = "_Metal_Corrogated_Shiny_8"
+cull_mode = 2
+albedo_texture = ExtResource("1_04m8i")

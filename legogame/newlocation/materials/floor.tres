@@ -1,0 +1,22 @@
+[gd_resource type="StandardMaterial3D" load_steps=5 format=3 uid="uid://d36rek8daysor"]
+
+[ext_resource type="Texture2D" uid="uid://dpcyr2hlemhis" path="res://legogame/newlocation/ComfyUI_00887_.png" id="1_7e35f"]
+[ext_resource type="Texture2D" uid="uid://t02u3yje1ond" path="res://legogame/newlocation/just_office3_Material Roughness.png" id="2_c1t8i"]
+[ext_resource type="Texture2D" uid="uid://c0lsa6sfue3ya" path="res://legogame/newlocation/just_office3_ComfyUI_Normals_00012_.png" id="3_v4ny6"]
+[ext_resource type="Texture2D" uid="uid://c18sa208k6fvi" path="res://legogame/newlocation/ComfyUI_Normals_00246_.png" id="4_avr32"]
+
+[resource]
+resource_name = "floor"
+cull_mode = 2
+specular_mode = 1
+albedo_color = Color(0.390549, 0.312677, 0.17576, 1)
+albedo_texture = ExtResource("1_7e35f")
+metallic_texture = ExtResource("2_c1t8i")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("4_avr32")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 0.19
+normal_texture = ExtResource("3_v4ny6")
+uv1_scale = Vector3(8, 8, 1)
+uv1_offset = Vector3(0, -7, 0)

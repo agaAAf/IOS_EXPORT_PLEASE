@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c0lsa6sfue3ya"
+path.s3tc="res://.godot/imported/just_office3_ComfyUI_Normals_00012_.png-ea3b45c1b606ddc4126d57dbc92a6178.s3tc.ctex"
+path.etc2="res://.godot/imported/just_office3_ComfyUI_Normals_00012_.png-ea3b45c1b606ddc4126d57dbc92a6178.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "d269c094600deb57aac2575fd6fddd33"
+}
+
+[deps]
+
+source_file="res://legogame/newlocation/just_office3_ComfyUI_Normals_00012_.png"
+dest_files=["res://.godot/imported/just_office3_ComfyUI_Normals_00012_.png-ea3b45c1b606ddc4126d57dbc92a6178.s3tc.ctex", "res://.godot/imported/just_office3_ComfyUI_Normals_00012_.png-ea3b45c1b606ddc4126d57dbc92a6178.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://legogame/newlocation/just_office3_ComfyUI_Normals_00012_.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

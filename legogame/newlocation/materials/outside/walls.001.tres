@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://rh6bwero1m4m"]
+
+[ext_resource type="Texture2D" uid="uid://dlk28miy0lo1p" path="res://legogame/newlocation/outside1_ComfyUI_Normals_00035_.png" id="1_mqegd"]
+
+[resource]
+resource_name = "walls.001"
+cull_mode = 2
+albedo_color = Color(0.906332, 0.906332, 0.906332, 1)
+roughness = 0.5
+normal_enabled = true
+normal_texture = ExtResource("1_mqegd")

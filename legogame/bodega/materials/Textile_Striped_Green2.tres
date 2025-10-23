@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://c6nj0esj35e0y"]
+
+[ext_resource type="Texture2D" uid="uid://bo6pqka2vjg6j" path="res://legogame/bodega/bodega_doors_Textile_Striped_Green2.png" id="1_5nrpj"]
+
+[resource]
+resource_name = "Textile_Striped_Green2"
+transparency = 4
+cull_mode = 2
+albedo_texture = ExtResource("1_5nrpj")

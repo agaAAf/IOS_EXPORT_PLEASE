@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dqx2ib7smt81n"]
+
+[ext_resource type="Texture2D" uid="uid://ca6oxitefrsfp" path="res://legogame/newlocation/just_office3_Untitled.png" id="1_2vwql"]
+
+[resource]
+resource_name = "T_shirt_collaps_O.006"
+cull_mode = 2
+albedo_texture = ExtResource("1_2vwql")
+roughness = 0.552786

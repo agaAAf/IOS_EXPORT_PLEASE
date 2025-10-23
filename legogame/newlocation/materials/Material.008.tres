@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bp5h86ohyivjd"]
+
+[ext_resource type="Texture2D" uid="uid://igouthsrsk7p" path="res://legogame/newlocation/just_office3_Material_16.png" id="1_br0ct"]
+
+[resource]
+resource_name = "Material.008"
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+roughness = 0.256736
+normal_enabled = true
+normal_texture = ExtResource("1_br0ct")

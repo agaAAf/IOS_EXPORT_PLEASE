@@ -1,0 +1,16 @@
+[gd_resource type="NoiseTexture2D" load_steps=4 format=3 uid="uid://b5vgfu0shlx5c"]
+
+[sub_resource type="Gradient" id="Gradient_bddm8"]
+offsets = PackedFloat32Array(0.00584795, 1)
+
+[sub_resource type="FastNoiseLite" id="FastNoiseLite_fnfhf"]
+frequency = 0.0161
+
+[sub_resource type="GDScript" id="GDScript_v6f33"]
+
+[resource]
+seamless = true
+normalize = false
+color_ramp = SubResource("Gradient_bddm8")
+noise = SubResource("FastNoiseLite_fnfhf")
+script = SubResource("GDScript_v6f33")

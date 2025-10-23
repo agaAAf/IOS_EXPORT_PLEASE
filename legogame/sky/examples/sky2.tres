@@ -1,0 +1,6 @@
+[gd_resource type="Sky" load_steps=2 format=3 uid="uid://cwpaykmxnkekp"]
+
+[ext_resource type="Material" uid="uid://dh6ykun8bv60u" path="res://legogame/sky/examples/day_sky.tres" id="1_on1uu"]
+
+[resource]
+sky_material = ExtResource("1_on1uu")

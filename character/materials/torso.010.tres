@@ -1,0 +1,15 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cu46r8wv0s2c"]
+
+[ext_resource type="Texture2D" uid="uid://dqrh3nw33wc0r" path="res://character/materials/1.png" id="1_awl24"]
+
+[resource]
+resource_name = "torso.010"
+specular_mode = 1
+vertex_color_use_as_albedo = true
+albedo_texture = ExtResource("1_awl24")
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_energy_multiplier = 0.0
+rim_enabled = true
+rim = 0.05
+rim_tint = 0.41

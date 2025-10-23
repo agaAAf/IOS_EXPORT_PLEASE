@@ -1,0 +1,115 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://cuiahbbciok60"
+path="res://.godot/imported/bodega_doors.glb-c2cca162e929d4ea456e1a452e44621b.scn"
+
+[deps]
+
+source_file="res://legogame/bodega/bodega_doors.glb"
+dest_files=["res://.godot/imported/bodega_doors.glb-c2cca162e929d4ea456e1a452e44621b.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+nodes/import_as_skeleton_bones=false
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+animation/import_rest_as_RESET=false
+import_script/path=""
+_subresources={
+"materials": {
+"Color_005": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/Color_005.tres"
+},
+"Floor_Tile_": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/Floor_Tile_.tres"
+},
+"FrontColor": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/FrontColor.tres"
+},
+"Japanese_Wood": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/Japanese_Wood.tres"
+},
+"M_0135_DarkGray": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/M_0135_DarkGray.tres"
+},
+"M_2501443e_86b7_446e_bb07_907bb1b670b9": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/M_2501443e_86b7_446e_bb07_907bb1b670b9.tres"
+},
+"M_970cfbed_f13d_477a_92de_707215cbddb5": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/M_970cfbed_f13d_477a_92de_707215cbddb5.tres"
+},
+"Panel_White": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/Panel_White.tres"
+},
+"Textile_Striped_Green2": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/Textile_Striped_Green2.tres"
+},
+"White_Wall_Panels": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/White_Wall_Panels.tres"
+},
+"_93": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/_93.tres"
+},
+"_Blinds_Roman_Hobbled_Blue_1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/_Blinds_Roman_Hobbled_Blue_1.tres"
+},
+"_Color_000_2": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/_Color_000_2.tres"
+},
+"_Color_008_1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/_Color_008_1.tres"
+},
+"_GLASS": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/_GLASS.tres"
+},
+"_Metal_Corrogated_Shiny_8": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/_Metal_Corrogated_Shiny_8.tres"
+},
+"_Translucent_Glass_Gray_1": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/_Translucent_Glass_Gray_1.tres"
+},
+"d92ecb6b_02ea_4634_aa7c_6a308bddc34b": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/d92ecb6b_02ea_4634_aa7c_6a308bddc34b.tres"
+},
+"yellow": {
+"use_external/enabled": true,
+"use_external/path": "res://legogame/bodega/materials/yellow.tres"
+}
+}
+}
+gltf/naming_version=1
+gltf/embedded_image_handling=1

@@ -1,0 +1,6 @@
+[gd_resource type="GradientTexture1D" load_steps=2 format=3 uid="uid://iuiluo17rg7n"]
+
+[ext_resource type="Gradient" uid="uid://uuafiviof0h5" path="res://cell/23214124.tres" id="1_wcset"]
+
+[resource]
+gradient = ExtResource("1_wcset")

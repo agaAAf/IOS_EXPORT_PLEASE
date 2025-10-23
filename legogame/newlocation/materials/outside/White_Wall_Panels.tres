@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://u0386v4u7w0y"]
+
+[ext_resource type="Texture2D" uid="uid://bkydq4mc87iqw" path="res://legogame/newlocation/outside1_White_Wall_Panels.jpg" id="1_riood"]
+
+[resource]
+resource_name = "White_Wall_Panels"
+cull_mode = 2
+albedo_texture = ExtResource("1_riood")

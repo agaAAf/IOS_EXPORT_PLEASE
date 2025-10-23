@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://d3t6rjewnyoyh"]
+
+[ext_resource type="Texture2D" uid="uid://cqycg1g2r2hne" path="res://legogame/bodega/bodega_doors_Japanese_Wood.jpg" id="1_dpgmn"]
+
+[resource]
+resource_name = "Japanese_Wood"
+cull_mode = 2
+albedo_texture = ExtResource("1_dpgmn")

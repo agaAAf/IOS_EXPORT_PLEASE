@@ -1,0 +1,26 @@
+[remap]
+
+importer="2d_array_texture"
+type="CompressedTexture2DArray"
+uid="uid://dnscvgtwor84x"
+path="res://.godot/imported/start_opti2.exr-1a4dcd712962c1aed87979639b3d8a78.ctexarray"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://legogame/start_opti2.exr"
+dest_files=["res://.godot/imported/start_opti2.exr-1a4dcd712962c1aed87979639b3d8a78.ctexarray"]
+
+[params]
+
+compress/mode=3
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/channel_pack=1
+mipmaps/generate=false
+mipmaps/limit=-1
+slices/horizontal=1
+slices/vertical=20

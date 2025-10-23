@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://obd4imnb716"]
+
+[ext_resource type="Texture2D" uid="uid://b57vof5xs5qkx" path="res://legogame/bodega/bodega_doors__GLASS.png" id="1_l7m6q"]
+
+[resource]
+resource_name = "_GLASS"
+transparency = 4
+cull_mode = 2
+albedo_color = Color(1, 1, 1, 0.58)
+albedo_texture = ExtResource("1_l7m6q")

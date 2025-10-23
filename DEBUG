@@ -1,0 +1,544 @@
+Resource Path,Type,Format,Usage
+res://legogame/newlocation/just_office3_Hanger_Roughness.png,Texture,2048x2048x1 RGB8,15.99 MiB
+res://legogame/bodega/bodega_doors_M_2501443e_86b7_446e_bb07_907bb1b670b9.png,Texture,7672x1000x1 DXT5 RGBA8,9.76 MiB
+res://legogame/newlocation/just_office3_WoodFlooring061_REFL_3K.png,Texture,1536x1536x1 RGB8,8.99 MiB
+Render Target (Internal),Texture,1920x1080x1 RGB8,7.90 MiB
+Render Target (Internal),Texture,1920x1080x1 RGB8,7.90 MiB
+res://legogame/ui/CREATORMENU/BG.png,Texture,1920x1080x1 RGB8,7.90 MiB
+res://legogame/ui/prints/prints2/PF LOGO.png,Texture,2417x512x1 RGBA8,6.29 MiB
+res://legogame/ui/prints/prints2/ONE WORLD.png,Texture,2417x512x1 RGBA8,6.29 MiB
+res://legogame/ui/bodega/interior_Sub_Sandwich.png,Texture,2048x2048x1 DXT5 RGBA8,5.33 MiB
+res://legogame/newlocation/just_office3_Hanger_Normal.jpg,Texture,2048x2048x1 RGTC RedGreen8,5.33 MiB
+res://legogame/ui/prints/blanks/yellow.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/prints/BLANK/png mask.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/prints/blanks/downall.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/diamondd.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/notif/sodacan.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/prints/hands/hand t-shirt.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/prints/hands/ruki_hands.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/prints/blanks/pants.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/ui/prints/blanks/down.png,Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+Render Target (Internal),Texture,1024x1024x1 RGBA8,5.33 MiB
+res://legogame/3dgui/pager/bg.png,Texture,1300x1024x1 RGB8,5.07 MiB
+res://legogame/ui/00-49.png,Texture,1318x652x1 RGBA8,4.36 MiB
+res://legogame/ui/CREATORMENU/blank.png,Texture,805x1004x1 RGBA8,4.10 MiB
+res://character/materials/legs.png,Texture,1024x1024x1 RGB8,3.99 MiB
+res://legogame/newlocation/extra_workers/textures/sneaker.png,Texture,1024x1024x1 RGB8,3.99 MiB
+res://legogame/newlocation/extra_workers/textures/WILLIAM_body.png,Texture,1024x1024x1 RGB8,3.99 MiB
+res://cell/legs2.png,Texture,1024x1024x1 RGB8,3.99 MiB
+res://legogame/newlocation/extra_workers/textures/MIKE_body.png,Texture,1024x1024x1 RGB8,3.99 MiB
+res://legogame/ui/prints/prints2/NOTE_BLACK.png,Texture,512x1481x1 RGBA8,3.85 MiB
+res://legogame/ui/prints/prints2/NOTE.png,Texture,512x1481x1 RGBA8,3.85 MiB
+Render Target (Internal),Texture,613x973x1 RGBA8,3.03 MiB
+Render Target (Internal),Texture,613x973x1 RGBA8,3.03 MiB
+Render Target (Internal),Texture,613x973x1 RGBA8,3.03 MiB
+res://legogame/newlocation/just_office3_WoodFlooring061_NRM_3K.jpg,Texture,1536x1536x1 RGTC RedGreen8,3.00 MiB
+res://legogame/ui/CREATORMENU/print-color.png,Texture,680x851x1 RGBA8,2.94 MiB
+res://legogame/newlocation/just_office3_Hanger_Color.jpg,Texture,2048x2048x1 DXT1 RGB8,2.66 MiB
+,Texture,1024x1024x1 LumAlpha8,2.66 MiB
+,Texture,1024x1024x1 LumAlpha8,2.66 MiB
+,Texture,1024x1024x1 LumAlpha8,2.66 MiB
+,Texture,1024x1024x1 LumAlpha8,2.66 MiB
+res://legogame/ui/prints/prints2/BULL.png,Texture,512x948x1 RGBA8,2.46 MiB
+Render Target (Internal),Texture,1054x609x1 RGB8,2.44 MiB
+Render Target (Internal),Texture,1054x609x1 RGB8,2.44 MiB
+res://legogame/ui/bodega/1 (3).png,Texture,620x874x1 RGB8,2.06 MiB
+res://legogame/ui/hud_0004_Layer-16.png,Texture,831x407x1 RGBA8,1.71 MiB
+res://legogame/wending/wending2_texturemap222.png,Texture,884x1420x1 DXT5 RGBA8,1.60 MiB
+res://legogame/newlocation/just_office3_WoodFlooring061_COL_3K.jpg,Texture,1536x1536x1 DXT1 RGB8,1.50 MiB
+res://legogame/ui/prints/prints2/BULL LOGO.png,Texture,659x420x1 RGBA8,1.40 MiB
+res://legogame/pager/pixelate.png,Texture,1044x264x1 RGBA8,1.40 MiB
+res://legogame/outside/cars/222.png,Texture,1024x1024x1 DXT5 RGBA8,1.33 MiB
+res://legogame/newlocation/just_office3_WhiteFabric_NRM.jpg,Texture,1024x1024x1 RGTC RedGreen8,1.33 MiB
+res://legogame/newlocation/materials/outside/tree2.tres::NoiseTexture2D_se8ti,Texture,512x512x1 RGBA8,1.33 MiB
+res://legogame/ui/prints/prints2/DEF JAM2000.png,Texture,512x503x1 RGBA8,1.30 MiB
+res://legogame/ui/prints/prints2/RUSH MEDIA.png,Texture,512x503x1 RGBA8,1.30 MiB
+res://legogame/ui/prints/prints2/PHAT FARM LOGO.png,Texture,512x492x1 RGBA8,1.28 MiB
+res://legogame/ui/bodega/interior__63.jpg,Texture,1620x1112x1 DXT1 RGB8,1.14 MiB
+res://legogame/bodega/bodega_doors_M_970cfbed_f13d_477a_92de_707215cbddb5.png,Texture,2956x300x1 DXT5 RGBA8,1.13 MiB
+res://legogame/ui/prints/prints2/DEF JAM LOGO.png,Texture,512x420x1 RGBA8,1.09 MiB
+res://legogame/newlocation/ouside2/trains_metro texture.png,Texture,2776x592x1 DXT1 RGB8,1.04 MiB
+res://legogame/newlocation/just_office3_stoyka.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_Material_16.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_Material_41.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_kolonki_base.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_Material.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_kolonki_base2.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_Material_14.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_stand_Base Color.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_polkatshirts Base Color.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_stoyka Normal.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_Metal Roughness.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_stoyka Base Color.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_polkatshirts Normal.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_polkatshirts Metallic-polkatshirts Roughness.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_rug Normal.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_Metal Normal.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/Material.009 Base Color.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_tvaround Normal.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/newlocation/just_office3_Material Roughness.png,Texture,512x512x1 RGB8,1023.9 KiB
+res://legogame/ui/prints/prints2/BULL RED.png,Texture,512x384x1 RGBA8,1023.9 KiB
+res://legogame/ui/bodega/interior_MV5BMjliMGFhOTctNGFiOC00NjA0LTk0NzctYzQyMjhlMTg4OWQ1XkEyXkFqcGc.jpg,Texture,1000x1500x1 DXT1 RGB8,978.0 KiB
+res://legogame/ui/prints/prints2/DEF PICTURES.png,Texture,512x364x1 RGBA8,970.3 KiB
+res://legogame/ui/prints/prints2/DEF PICTURES2.png,Texture,512x364x1 RGBA8,970.3 KiB
+res://legogame/wending/wending2_03 (9).png,Texture,508x1420x1 DXT5 RGBA8,941.9 KiB
+res://654.png,Texture,386x440x1 RGBA8,884.1 KiB
+res://legogame/wending/wending2_23523525.png,Texture,884x1420x1 DXT1 RGB8,819.3 KiB
+res://legogame/ui/bodega/interior_Harley_Quinn.png,Texture,812x1524x1 DXT1 RGB8,807.7 KiB
+res://legogame/newlocation/just_office3_rug.png,Texture,376x376x1 RGBA8,736.1 KiB
+res://legogame/ui/bodega/interior_Sketchy_Siding_Straight.jpg,Texture,1596x704x1 DXT1 RGB8,732.0 KiB
+,Texture,1024x512x1 DXT5 RGBA8,682.7 KiB
+res://legogame/newlocation/outside1_PNG1.png,Texture,1024x512x1 DXT5 RGBA8,682.7 KiB
+res://legogame/outside/cars/cartaxi_newrig4_copp.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/newlocation/just_office3_Untitled.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/outside/cars/cartaxi_Untitled.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/outside/cars/carregular_Untitled.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/outside/cars/carregular_copp.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/outside/cars/copcar_copp.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/outside/cars/cartaxi_newrig4_Untitled.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/newlocation/just_office3_WhiteFabric_RGH.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/outside/cars/copcar_Untitled.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/newlocation/just_office3_WhiteFabric_DIF.jpg,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://cell/01.jpg,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://cell/s222neaker.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/ui/prints/BLANK/tpose_13.png-1.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://cell/hands/r-01.jpg,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://scene/protoype/texture_05.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/newlocation/extra_workers/textures/MIKE_hands.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/newlocation/lord/orange outfit.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/newlocation/lord/EXTRASSS_ANIMSOPENWITH3_13.png-1.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/outside/cars/copcawr.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/newlocation/lord/legs3.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+res://legogame/ui/bodega/pizza_result.png,Texture,1024x1024x1 DXT1 RGB8,682.6 KiB
+,Texture,512x512x1 LumAlpha8,682.6 KiB
+,Texture,512x512x1 LumAlpha8,682.6 KiB
+,Texture,512x512x1 LumAlpha8,682.6 KiB
+,Texture,512x512x1 LumAlpha8,682.6 KiB
+res://legogame/ui/CREATORMENU/Position.png,Texture,345x368x1 RGBA8,660.6 KiB
+res://legogame/ui/bodega/1-2.png,Texture,558x219x1 RGBA8,634.9 KiB
+res://legogame/ui/bodega/basoc.png,Texture,558x213x1 RGBA8,617.8 KiB
+res://legogame/ui/bodega/interior_maxresdefaultgfjhfh.jpg,Texture,1280x720x1 DXT1 RGB8,600.3 KiB
+res://legogame/bodega/bodega_doors_White_Wall_Panels.jpg,Texture,916x1000x1 DXT1 RGB8,597.8 KiB
+res://legogame/ui/bodega/bape/bathi.png,Texture,564x195x1 RGBA8,571.6 KiB
+res://legogame/png5.png,Texture,1396x308x1 DXT5 RGBA8,563.3 KiB
+res://legogame/ui/soda.png,Texture,295x461x1 RGB8,530.0 KiB
+res://legogame/ui/bodega/1-1.png,Texture,556x178x1 RGBA8,514.9 KiB
+res://legogame/newlocation/logo_flag.png,Texture,800x420x1 DXT5 RGBA8,439.1 KiB
+res://legogame/ui/bodega/1-3.png,Texture,559x150x1 RGBA8,435.7 KiB
+res://legogame/ui/bodega/interior_Color_D10.jpg,Texture,800x800x1 DXT1 RGB8,416.8 KiB
+res://legogame/ui/bodega/interior_logo.png,Texture,560x560x1 DXT5 RGBA8,408.7 KiB
+res://legogame/bodega/bodega_doors_d92ecb6b_02ea_4634_aa7c_6a308bddc34b.png,Texture,560x560x1 DXT5 RGBA8,408.7 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/outside1_ComfyUI_Normals_00137_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/outside1_ComfyUI_Normals_00086_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/filler_ComfyUI_Normals_00086_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/outside1_ComfyUI_Normals_00148_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/filler_ComfyUI_Normals_00035_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/filler_ComfyUI_Normals_00148_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/outside1_ComfyUI_Normals_00035_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/office2out_Metal Normal.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/office2out_window.png,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+res://legogame/newlocation/ouside2/office2out_ComfyUI_Normals_00035_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/office2out_Normals_0004.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/office2out_Normals_0012.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/office2out_ComfyUI_Normals_00086_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/office2out_ComfyUI_Normals_00148_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/zanaveska1_ComfyUI_00480_.png,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+res://legogame/newlocation/materials/outside/stena_ComfyUI_Normals_00086_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/materials/outside/stena_ComfyUI_Normals_00035_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/trains_colormap.png,Texture,512x512x1 BPTC_RGBA,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/lift_door_Metal Normal.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/just_office3_ComfyUI_Normals_00148_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://cell/ROOMS/ComfyUI_00563_.png,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/trains_ComfyUI_Normals_00086_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+res://cell/ROOMS/ComfyUI_00562_.png,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/just_office3_ComfyUI_Normals_00012_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/just_office3_ComfyUI_Normals_00035_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/just_office3_ComfyUI_Normals_00137_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+res://legogame/newlocation/just_office3_ComfyUI_Normals_00086_.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+,Texture,512x512x1 DXT5 RGBA8,341.3 KiB
+,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/newlocation/ouside2/trains_Metal Normal.png,Texture,512x512x1 RGTC RedGreen8,341.3 KiB
+res://legogame/ui/bodega/billboard_NYC.png,Texture,1024x512x1 DXT1 RGB8,341.3 KiB
+res://legogame/start.tscn::NoiseTexture2D_wf787,Texture,512x512x1 Lum8,341.3 KiB
+res://legogame/sky/examples/day_sky.tres::NoiseTexture2D_f0o33,Texture,512x512x1 Lum8,341.3 KiB
+res://legogame/start.tscn::NoiseTexture2D_st0af,Texture,512x512x1 Lum8,341.3 KiB
+res://legogame/sky/examples/day_sky.tres::NoiseTexture2D_ricwa,Texture,512x512x1 Lum8,341.3 KiB
+res://legogame/sky/examples/day_sky.tres::NoiseTexture2D_8gq6s,Texture,512x512x1 Lum8,341.3 KiB
+res://legogame/newlocation/ouside2/iceoutside.tscn::NoiseTexture2D_hg1sh,Texture,512x512x1 Lum8,341.3 KiB
+res://legogame/ui/bodega/interior_dark_sketch_stone.jpg,Texture,1120x460x1 DXT1 RGB8,336.3 KiB
+res://legogame/ui/CREATORMENU/Size.png,Texture,160x354x1 RGBA8,294.8 KiB
+res://legogame/bodega/bodega_doors__GLASS.png,Texture,468x468x1 DXT5 RGBA8,287.2 KiB
+res://legogame/ui/graffiti_1.png,Texture,456x460x1 DXT5 RGBA8,274.2 KiB
+res://legogame/pager/contact.png,Texture,200x200x1 RGBA8,208.2 KiB
+res://legogame/ui/bodega/interior_screen_main.jpg,Texture,652x436x1 DXT1 RGB8,186.0 KiB
+res://legogame/ui/bodega/back.png,Texture,278x128x1 RGBA8,185.1 KiB
+res://legogame/ui/bodega/next.png,Texture,293x120x1 RGBA8,182.8 KiB
+res://cell/ROOMS/ComfyUI_00400_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://cell/ROOMS/ComfyUI_00398_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://cell/ROOMS/ComfyUI_00394_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://cell/ROOMS/ComfyUI_00416_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/outside/roads/colormap.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/filler_ComfyUI_00220_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/outside1_ComfyUI_00220_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/outside1_ComfyUI_00209_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/outside1_Untitled_25.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/outside1_Untitled_26.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/outside1_Untitled_27.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/ui/bodega/interior_BESTA_BURS_white.jpg,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/ComfyUI_Normals_00246_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/ComfyUI_00887_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/just_office3_dj Base Color.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/ouside2/office2out_Metal Roughness.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/just_office3_up Base Color.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/ouside2/office2out_ComfyUI_temp_dbgdv_00004_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/just_office3_down Base Color.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/ouside2/office2out_ComfyUI_00220_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/lift_door_Metal Roughness.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/just_office3_ComfyUI_00220_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://character/graffiti_can_graffiti.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://character/emmisions.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://cell/ROOMS/ComfyUI_00397_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://cell/ROOMS/ComfyUI_00381_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://character/blunttxt.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://character/blunt_Untitled.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://cell/ROOMS/ComfyUI_00408_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://cell/ROOMS/ComfyUI_00377_.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+res://legogame/newlocation/ouside2/trains_Metal Roughness.png,Texture,512x512x1 DXT1 RGB8,170.6 KiB
+,Texture,256x256x1 LumAlpha8,170.6 KiB
+res://legogame/ui/bodega/interior_Sketchy_Shingles_Rustic.png,Texture,652x352x1 DXT1 RGB8,149.7 KiB
+res://legogame/outside/cars/NYPD_STICKER.png,Texture,888x256x1 DXT1 RGB8,148.1 KiB
+res://legogame/ui/00-48.png,Texture,89x306x1 RGBA8,141.3 KiB
+res://legogame/newlocation/materials/outside/fans1_vent.png,Texture,324x324x1 DXT5 RGBA8,137.8 KiB
+res://legogame/newlocation/outside1_vent.png,Texture,324x324x1 DXT5 RGBA8,137.8 KiB
+res://legogame/ui/presse.png,Texture,522x51x1 RGBA8,137.5 KiB
+res://legogame/ui/bodega/interior_defjamnyc.png,Texture,1000x192x1 DXT1 RGB8,125.1 KiB
+res://legogame/ui/bodega/interior_savonn.jpg,Texture,408x452x1 DXT1 RGB8,120.5 KiB
+res://legogame/wending/wending2_01 (9).png,Texture,684x236x1 DXT1 RGB8,105.8 KiB
+res://legogame/ui/bodega/interior_blackmouse2.jpg,Texture,512x296x1 DXT1 RGB8,98.94 KiB
+res://legogame/ui/bodega/interior_M_1b73553fc90986d6829f2234e4f5ee5e.jpg,Texture,464x316x1 DXT1 RGB8,95.85 KiB
+res://legogame/ui/bodega/interior_keyboard.jpg,Texture,568x244x1 DXT1 RGB8,90.89 KiB
+res://legogame/ui/bodega/bape/3 (3).png,Texture,123x139x1 RGBA8,88.48 KiB
+res://legogame/ui/bodega/interior__4.jpg,Texture,360x360x1 DXT1 RGB8,84.75 KiB
+res://legogame/ui/bodega/bape/4.png,Texture,117x138x1 RGBA8,83.76 KiB
+res://legogame/ui/bodega/bape/5.png,Texture,116x139x1 RGBA8,83.67 KiB
+res://legogame/ui/bodega/interior_kanji_a.jpg,Texture,280x420x1 DXT1 RGB8,76.99 KiB
+res://legogame/ui/bodega/bape/2 (4).png,Texture,107x139x1 RGBA8,76.94 KiB
+res://legogame/ui/bodega/bape/1 (4).png,Texture,107x138x1 RGBA8,76.52 KiB
+res://legogame/sky/assets/shooting_star_sampler.png,Texture,128x128x1 RGB8,63.99 KiB
+res://legogame/ui/bodega/interior_Sketchy_Siding_Scale.jpg,Texture,396x240x1 DXT1 RGB8,62.13 KiB
+res://legogame/bodega/bodega_doors_Textile_Striped_Green2.png,Texture,288x288x1 DXT1 RGB8,54.07 KiB
+res://legogame/ui/bodega/interior_Textile_Striped_Green2.jpg,Texture,288x288x1 DXT1 RGB8,54.07 KiB
+res://legogame/newlocation/materials/outside/fans1_Untitled.png,Texture,256x256x1 DXT1 RGB8,42.67 KiB
+res://legogame/ui/bodega/interior_Carpet_Plush_Forest.jpg,Texture,256x256x1 DXT1 RGB8,42.67 KiB
+,Texture,256x256x1 DXT1 RGB8,42.67 KiB
+res://legogame/newlocation/outside1_Untitled.png,Texture,256x256x1 DXT1 RGB8,42.67 KiB
+res://legogame/newlocation/ouside2/leavesbrushapha256.png,Texture,256x256x1 DXT1 RGB8,42.67 KiB
+res://legogame/ui/CREATORMENU/-.png,Texture,81x81x1 RGBA8,33.94 KiB
+res://legogame/ui/CREATORMENU/-_1.png,Texture,81x81x1 RGBA8,33.94 KiB
+res://legogame/ui/CREATORMENU/+.png,Texture,81x81x1 RGBA8,33.94 KiB
+res://legogame/ui/CREATORMENU/+_1.png,Texture,81x81x1 RGBA8,33.94 KiB
+res://legogame/bodega/bodega_doors_Japanese_Wood.jpg,Texture,204x252x1 DXT1 RGB8,33.80 KiB
+res://legogame/ui/bodega/interior__55.jpg,Texture,280x184x1 DXT1 RGB8,33.72 KiB
+res://legogame/ui/bodega/atm_cardpay.jpg,Texture,200x256x1 DXT1 RGB8,33.46 KiB
+res://legogame/ui/hud_0005_Layer-17.png,Texture,76x76x1 RGBA8,30.01 KiB
+,Texture,800x6x1 RGBA8,24.98 KiB
+,Texture,800x6x1 RGBA8,24.98 KiB
+res://legogame/bodega/bodega_doors__Blinds_Roman_Hobbled_Blue_1.jpg,Texture,128x256x1 DXT1 RGB8,21.35 KiB
+res://legogame/sky/examples/day_sky.tres::GradientTexture2D_oem5n,Texture,64x64x1 RGBA8,21.33 KiB
+res://legogame/start.tscn::GradientTexture2D_kwy8y,Texture,64x64x1 RGBA8,21.33 KiB
+res://legogame/start.tscn::GradientTexture2D_ocxfd,Texture,64x64x1 RGBA8,21.33 KiB
+res://legogame/ui/bodega/atm_instructs.jpg,Texture,156x180x1 DXT1 RGB8,18.57 KiB
+res://legogame/ui/CREATORMENU/b_1.png,Texture,54x54x1 RGBA8,15.07 KiB
+res://legogame/ui/CREATORMENU/b_2.png,Texture,54x54x1 RGBA8,15.07 KiB
+res://legogame/ui/bodega/interior_couver.jpg,Texture,92x204x1 DXT1 RGB8,12.45 KiB
+res://legogame/wending/wending2_textures_wending.png,Texture,180x92x1 DXT1 RGB8,11.02 KiB
+res://legogame/ui/bodega/interior__Metal_Corrogated_Shiny_2.jpg,Texture,128x128x1 DXT1 RGB8,10.67 KiB
+res://legogame/bodega/bodega_doors__Metal_Corrogated_Shiny_8.jpg,Texture,128x128x1 DXT1 RGB8,10.67 KiB
+res://legogame/ui/bodega/interior__Metal_Corrogated_Shiny_4.jpg,Texture,128x128x1 DXT1 RGB8,10.67 KiB
+res://legogame/ui/bodega/interior__Metal_Corrogated_Shiny_1.jpg,Texture,128x128x1 DXT1 RGB8,10.67 KiB
+res://legogame/ui/bodega/interior_Metal_Corrogated_Shiny.jpg,Texture,128x128x1 DXT1 RGB8,10.67 KiB
+,Texture,256x1x1 RGBFloat,5.98 KiB
+,Texture,256x1x1 RGBFloat,5.98 KiB
+,Texture,256x1x1 RGBFloat,5.98 KiB
+,Texture,256x1x1 RGBFloat,5.98 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,16x32x1 RGBA8,2.66 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,32x16x1 RGBA8,2.66 KiB
+,Texture,48x8x1 RGBA8,2.00 KiB
+,Texture,8x48x1 RGBA8,2.00 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_6mtxj,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_8nvxm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_0mt2a,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_e6n6t,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_m2dd0,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_5whfu,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/copcar.tscn::GradientTexture1D_kcddp,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_eo45h,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_u25yy,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_bxaav,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_2fxi1,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/copcar.tscn::GradientTexture1D_88vqb,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_16ou5,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_a1dnp,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_au5e8,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_lc7o0,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_27q5m,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_vyvax,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_euwtv,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_kjvnm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_mf2oh,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_al1sv,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_kexa7,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_s0h6u,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_7q4dv,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_3e3uu,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_sjvld,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_anig5,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_bnnih,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/copcar.tscn::GradientTexture1D_oriqk,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_hoe41,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_8a7vf,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_7wmwt,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_4xck7,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_071we,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_ts4bp,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_n8r0n,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_4y44c,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_5vova,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_tib8d,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_bx87h,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_8ru70,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_k3ww7,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_fxxkb,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_woqtt,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_hx05h,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_3bcd0,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_1s58b,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_1ygw4,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_8dmwb,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_5qh8y,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_7i830,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_y1phe,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_bqy7a,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_x87al,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_6lved,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_b7pb0,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_8fbfb,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_4vrjd,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_jp7qf,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_a18m6,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/case_1.tres::GradientTexture1D_0l6mm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/road.tscn::GradientTexture1D_t8y0v,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/road.tscn::GradientTexture1D_di7rv,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_elq8h,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_sbhyb,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_atujq,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_hgpun,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_h8mie,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_jchk1,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_s4dob,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_43olv,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_r1to7,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_rmp5k,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_5dp8n,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_g7bs6,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_bmrq0,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_l4l8h,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_jrvfo,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_84kul,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_f5vdj,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/start.tscn::GradientTexture1D_mk3d2,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/fron1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/walls1.tres::GradientTexture1D_j646x,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/walls1.tres::GradientTexture1D_xeoy7,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/kozirok1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/windows1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/stoyka1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/stoyka.0011.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Material.0061.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Material.0051.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Material.0041.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/office_2_out.tscn::GradientTexture1D_tt2x6,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/office_2_out.tscn::GradientTexture1D_beoka,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/office_2_out.tscn::GradientTexture1D_m7brj,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/office_2_out.tscn::GradientTexture1D_i7gkw,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/office_2_out.tscn::GradientTexture1D_bduq5,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/ouside2/office_2_out.tscn::GradientTexture1D_pvs3e,Texture,256x1x1 RGBA8,1.99 KiB
+res://ui_test.tscn::GradientTexture1D_4ye7s,Texture,256x1x1 RGBA8,1.99 KiB
+res://ui_test.tscn::GradientTexture1D_tua3q,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Metal1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://cell/color_gradient.tres,Texture,256x1x1 RGBA8,1.99 KiB
+res://cell/gobot_celshaded.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://cell/legs.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://cell/hands.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/cement1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/hand/door.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/white.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Material.0101.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/coat Hanger1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/rug1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/tvaround1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://brckd2d.tres,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/down1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/up1.tres::GradientTexture1D_ycv4i,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Material.0091.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Material.0081.tres::GradientTexture1D_t4co0,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/Material.0081.tres::GradientTexture1D_tlc4h,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/dj1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/bricks1.tres::GradientTexture1D_qcr3d,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/bricks1.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_17rwa,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_haqqj,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_0fsar,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_ga5f3,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_2sxph,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_ns1bq,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_ky51n,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/bodega_doors.tscn::GradientTexture1D_6u45u,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/bodega_doors.tscn::GradientTexture1D_g4pnc,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/bodega_doors.tscn::GradientTexture1D_pote6,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/bodega_doors.tscn::GradientTexture1D_ooy2a,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/bodega_doors.tscn::GradientTexture1D_u48vu,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/bodega_doors.tscn::GradientTexture1D_ms0a4,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/case_1.tres::GradientTexture1D_nbibv,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_62q52,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_yuk61,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_bx45f,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_qd58e,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_oowc2,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/extra_workers/extras.tscn::GradientTexture1D_furqy,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/outside/road.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/bricks33.tres::GradientTexture1D_qcr3d,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/bricks33.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/bricks11.tres::GradientTexture1D_qcr3d,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/bricks11.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/bricks22.tres::GradientTexture1D_qcr3d,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/bricks22.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/tree2.tres::GradientTexture1D_qcr3d,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/materials/outside/tree2.tres::GradientTexture1D_ovwhm,Texture,256x1x1 RGBA8,1.99 KiB
+res://thirt editor.tscn::GradientTexture1D_2428b,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_l7bak,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_i5xb3,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_wnmxe,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_4wlrp,Texture,256x1x1 RGBA8,1.99 KiB
+res://legogame/newlocation/lord/lordidle.tscn::GradientTexture1D_ie5su,Texture,256x1x1 RGBA8,1.99 KiB
+res://thirt editor.tscn::GradientTexture1D_35d65,Texture,256x1x1 RGBA8,1.99 KiB
+res://thirt editor.tscn::GradientTexture1D_2rxow,Texture,256x1x1 RGBA8,1.99 KiB
+res://thirt editor.tscn::GradientTexture1D_gqc0s,Texture,256x1x1 RGBA8,1.99 KiB
+res://thirt editor.tscn::GradientTexture1D_wgok8,Texture,256x1x1 RGBA8,1.99 KiB
+res://thirt editor.tscn::GradientTexture1D_6vrvd,Texture,256x1x1 RGBA8,1.99 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+,Texture,16x16x1 RGBA8,1.33 KiB
+res://legogame/hand/colors.png,Texture,24x48x1 DXT1 RGB8,800 B
+,Texture,12x12x1 RGBA8,760 B
+,Texture,12x12x1 RGBA8,760 B
+,Texture,12x12x1 RGBA8,760 B
+,Texture,8x16x1 RGBA8,684 B
+,Texture,8x16x1 RGBA8,684 B
+,Texture,14x8x1 RGBA8,588 B
+,Texture,10x10x1 RGBA8,520 B
+,Texture,16x4x1 RGBA8,348 B
+,Texture,4x16x1 RGBA8,348 B
+,Texture,8x8x1 RGBA8,340 B
+,Texture,8x8x1 RGBA8,340 B
+Render Target (Internal),Texture,4x4x1 RGBA8,84 B
+Render Target (Internal),Texture,4x4x1 RGBA8,84 B
+Render Target (Internal),Texture,4x4x1 RGBA8,84 B
+Render Target (Internal),Texture,4x4x1 RGBA8,84 B
+,Texture,4x4x1 RGBA8,84 B
+,Texture,4x4x1 RGBA8,84 B
+,Texture,4x4x1 RGBA8,84 B
+,Texture,4x4x1 RGBA8,84 B

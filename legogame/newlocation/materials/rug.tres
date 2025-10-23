@@ -1,0 +1,14 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://bdoom166mo3xs"]
+
+[ext_resource type="Texture2D" uid="uid://d0y88wnv3vdkm" path="res://legogame/newlocation/just_office3_rug.png" id="1_n8qlp"]
+[ext_resource type="Texture2D" uid="uid://bpxt46jebyj0u" path="res://legogame/newlocation/just_office3_rug Normal.png" id="2_r8qf2"]
+
+[resource]
+resource_name = "rug"
+transparency = 4
+cull_mode = 2
+albedo_texture = ExtResource("1_n8qlp")
+roughness = 0.5
+normal_enabled = true
+normal_texture = ExtResource("2_r8qf2")
+texture_repeat = false

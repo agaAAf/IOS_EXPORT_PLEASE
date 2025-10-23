@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cuu5av2ac3dyc"
+path.s3tc="res://.godot/imported/trains_Metal Roughness.png-738f9479ab8786b26f2b6cfcd39f4826.s3tc.ctex"
+path.etc2="res://.godot/imported/trains_Metal Roughness.png-738f9479ab8786b26f2b6cfcd39f4826.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "5fd9592f8a8d9790d6fed8781a6c5be4"
+}
+
+[deps]
+
+source_file="res://legogame/newlocation/ouside2/trains_Metal Roughness.png"
+dest_files=["res://.godot/imported/trains_Metal Roughness.png-738f9479ab8786b26f2b6cfcd39f4826.s3tc.ctex", "res://.godot/imported/trains_Metal Roughness.png-738f9479ab8786b26f2b6cfcd39f4826.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

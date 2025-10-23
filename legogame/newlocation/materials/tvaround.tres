@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://b5rapvifva0px"]
+
+[ext_resource type="Texture2D" uid="uid://6e4gyx4soikh" path="res://legogame/newlocation/just_office3_Untitled_11.png" id="1_mijlr"]
+[ext_resource type="Texture2D" uid="uid://djuxd5a663mvs" path="res://legogame/newlocation/just_office3_tvaround Normal.png" id="2_fdibc"]
+
+[resource]
+resource_name = "tvaround"
+cull_mode = 2
+albedo_texture = ExtResource("1_mijlr")
+roughness = 0.5
+normal_enabled = true
+normal_scale = 0.66
+normal_texture = ExtResource("2_fdibc")

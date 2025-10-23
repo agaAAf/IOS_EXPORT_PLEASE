@@ -1,0 +1,50 @@
+[
+  {
+	"key": 1,
+	"NAME": "BOX",
+	"text": "Mike: yo! i need some phat farm samples from the storehouse, drop them at my desk please",
+	"objtext": "DROP SAMPLES",
+	"where": "2ND FLOOR",
+	"time": 300
+  },
+  {
+	"key": 2,
+	"NAME": "MOP",
+	"text": "Bob: urgent! we got a super important meeting at the office, drop what you're doing rn and mop the floor before they get here!!!!!",
+	"objtext": "MOP THE FLOOR",
+	"where": "3RD FLOOR",
+	"time": 300
+  },
+  {
+	"key": 3,
+	"NAME": "CREATE",
+	"text": "William: hey, i saw your sketches recently, really impressed by your work, maybe we could use some of your input, come to my desk",
+	"objtext": "DESIGN A SHIRT",
+	"where": "2ND FLOOR",
+	"time": 300
+  },
+  {
+	"key": 4,
+	"NAME": "SODA",
+	"text": "Greg: yo, i'm so hungover, please drop a soda at my desk ",
+	"objtext": "BRING A SODA",
+	"where": "2ND FLOOR",
+	"time": 300
+  },
+  {
+	"key": 5,
+	"NAME": "smoking_session",
+	"text": "LORDNES: yo, let's rip a blunt, waiting for you near the bodega ",
+	"objtext": "SMOKE A BLUNT",
+	"where": "CORNER NEAR BODEGA",
+	"time": 400
+  },
+  {
+	"key": 6,
+	"NAME": "paint",
+	"text": "UNKNOWN: bro, u sure u wanna do that wack shit, carrying boxes ad alldat? there is a spot on top of the office for graffiti, let em know who they working wid",
+	"objtext": "PAINT A GRAFFITI",
+	"where": "OFFICE ROOF",
+	"time": 400
+  }
+]

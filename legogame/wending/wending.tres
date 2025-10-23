@@ -1,0 +1,10 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://c5m3nnovye6ds"]
+
+[ext_resource type="Shader" path="res://legogame/wending/wending.gdshader" id="1_kb6re"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_kb6re")
+shader_parameter/Color = Color(1, 1, 1, 0.72549)
+shader_parameter/Shine = 0.74
+shader_parameter/Roughness = 0.33

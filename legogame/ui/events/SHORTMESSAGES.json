@@ -1,0 +1,38 @@
+[
+  {
+	"key": 1,
+	"NAMEOFACTION": "BOX",
+	"text": "WHERE TF ARE MY BOXES?",
+	"objtext": "DROP SAMPLES",
+	"where": "2ND FLOOR",
+	"time": 60,
+	"name": "MIKE"
+  },
+  {
+	"key": 2,
+	"NAMEOFACTION": "MOP",
+	"text": "HAVE YOU MOPPED THE FLOOR? THEY WILL BE HERE IN A MINUTE!!!",
+	"objtext": "MOP THE FLOOR",
+	"where": "3RD FLOOR",
+	"time": 40,
+	"name": "BOB"
+  },
+  {
+	"key": 3,
+	"NAMEOFACTION": "CREATE",
+	"text": "WAITING FOR YOU TO COME BY WITH THE SKETCHES...",
+	"objtext": "DESIGN A SHIRT",
+	"where": "2ND FLOOR",
+	"time": 80,
+	"name": "WLLIAM"
+  },
+  {
+	"key": 4,
+	"NAMEOFACTION": "SODA",
+	"text": "I WON'T OPEN THE DOOR, YOU HAVEN'T BROUGHT ME THE SODA!",
+	"objtext": "BRING A SODA",
+	"where": "2ND FLOOR",
+	"time": 100,
+	"name": "GREG"
+  }
+]

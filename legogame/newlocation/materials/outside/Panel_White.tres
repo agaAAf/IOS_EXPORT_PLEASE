@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://dp76g54ufhv1x"]
+
+[resource]
+resource_name = "Panel_White"
+cull_mode = 2
+albedo_color = Color(0.968307, 0.968307, 0.968307, 1)

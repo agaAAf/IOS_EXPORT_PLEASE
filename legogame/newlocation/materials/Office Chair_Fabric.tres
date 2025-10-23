@@ -1,0 +1,19 @@
+[gd_resource type="StandardMaterial3D" load_steps=4 format=3 uid="uid://bn1cofpku2s58"]
+
+[ext_resource type="Texture2D" uid="uid://besxaodwm8758" path="res://legogame/newlocation/just_office3_WhiteFabric_DIF.jpg" id="1_ua20m"]
+[ext_resource type="Texture2D" uid="uid://dbmlbtgxpod21" path="res://legogame/newlocation/just_office3_WhiteFabric_RGH.png" id="2_m01ym"]
+[ext_resource type="Texture2D" uid="uid://da8f40kfcedfp" path="res://legogame/newlocation/just_office3_WhiteFabric_NRM.jpg" id="3_lg6tf"]
+
+[resource]
+resource_name = "Office Chair_Fabric"
+cull_mode = 2
+albedo_texture = ExtResource("1_ua20m")
+metallic_texture = ExtResource("2_m01ym")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("2_m01ym")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_scale = 5.0
+normal_texture = ExtResource("3_lg6tf")
+uv1_scale = Vector3(5, 5, 1)
+uv1_offset = Vector3(0, -4, 0)

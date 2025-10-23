@@ -1,0 +1,63 @@
+[
+  {
+	"key": 1,
+	"NAMEOFACTION": "BOX",
+	"text": "Yo! i need some phat farm samples from the storehouse, drop them at my desk please",
+	"objtext": "DROP SAMPLES",
+	"where": "2ND FLOOR",
+	"time": 6000,
+	"name": "MIKE"
+  },
+  {
+	"key": 2,
+	"NAMEOFACTION": "MOP",
+	"text": "URGENT! WE GOT A SUPER IMPORTANT MEETING AT THE OFFICE, DROP WHAT YOU'RE DOING RN AND MOP THE FLOOR BEFORE THEY GET HERE!!!!!",
+	"objtext": "MOP THE FLOOR",
+	"where": "3RD FLOOR",
+	"time": 4000,
+	"name": "BOB"
+  },
+  {
+	"key": 3,
+	"NAMEOFACTION": "CREATE",
+	"text": "Hey, i saw your sketches recently, really impressed by your work, maybe we could use some of your input, come to my desk",
+	"objtext": "DESIGN A SHIRT",
+	"where": "2ND FLOOR",
+	"time": 4080,
+	"name": "WLLIAM"
+  },
+  {
+	"key": 4,
+	"NAMEOFACTION": "SODA",
+	"text": "Yo... i'm so hungover, please drop a soda at my desk",
+	"objtext": "BRING A SODA",
+	"where": "2ND FLOOR",
+	"time": 4000,
+	"name": "Russel's assistant"
+  },
+  {
+	"key": 5,
+	"NAMEOFACTION": "smoking_session",
+	"text": "LORDNES: yo, let's rip a blunt, waiting for you near the bodega ",
+	"objtext": "SMOKE A BLUNT",
+	"where": "CORNER NEAR BODEGA",
+	"time": 400
+  },
+  {
+	"key": 6,
+	"NAMEOFACTION": "paint",
+	"text": "UNKNOWN: bro, u sure u wanna do that wack shit, carrying boxes ad alldat? there is a spot on top of the office for graffiti, let em know who they working wid",
+	"objtext": "PAINT A GRAFFITI",
+	"where": "OFFICE ROOF",
+	"time": 400
+  },
+  {
+	"key": 7,
+	"NAMEOFACTION": "RAMEN",
+	"text": "ALSO i'd love to eat some ramen rn... Get some from the Bodega and drop it at my desk and MAYBE I'll schedule a meeting with Russel and you earlier...",
+	"objtext": "BRING RAMEN",
+	"where": "2ND FLOOR",
+	"time": 4000,
+	"name": "Russel's assistant"
+  }
+]

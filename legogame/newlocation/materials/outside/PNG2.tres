@@ -1,0 +1,15 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://b3pe7fiq174s8"]
+
+[ext_resource type="Texture2D" uid="uid://cg3tl4ctq5gv3" path="res://legogame/newlocation/outside1_PNG2.png" id="1_msna2"]
+
+[resource]
+resource_name = "PNG2"
+transparency = 2
+alpha_scissor_threshold = 0.218
+alpha_antialiasing_mode = 0
+cull_mode = 2
+albedo_texture = ExtResource("1_msna2")
+roughness = 0.5
+backlight_enabled = true
+backlight = Color(0.991164, 0.991164, 0.991164, 1)
+texture_repeat = false

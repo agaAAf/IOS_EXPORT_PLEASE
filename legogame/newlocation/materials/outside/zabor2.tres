@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bu4blk5cs0w2p"]
+
+[ext_resource type="Texture2D" uid="uid://dwuiw14mvq8r3" path="res://legogame/newlocation/outside1_Untitled_25.png" id="1_c6fm7"]
+
+[resource]
+resource_name = "zabor2"
+cull_mode = 2
+albedo_texture = ExtResource("1_c6fm7")
+roughness = 0.5

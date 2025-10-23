@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://qgsfnmalq43u"]
+
+[ext_resource type="Texture2D" uid="uid://breomfqpnwynb" path="res://legogame/newlocation/outside1__GLASS.png" id="1_5q63x"]
+
+[resource]
+resource_name = "_GLASS"
+transparency = 4
+cull_mode = 2
+albedo_color = Color(1, 1, 1, 0.58)
+albedo_texture = ExtResource("1_5q63x")

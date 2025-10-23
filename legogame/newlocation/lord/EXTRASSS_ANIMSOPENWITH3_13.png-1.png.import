@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b3c3e16d7b5wo"
+path.s3tc="res://.godot/imported/EXTRASSS_ANIMSOPENWITH3_13.png-1.png-1e63649a83780b1196f45e0af998e706.s3tc.ctex"
+path.etc2="res://.godot/imported/EXTRASSS_ANIMSOPENWITH3_13.png-1.png-1e63649a83780b1196f45e0af998e706.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "e35ce0ffc5201b3398dd7400b7a34eab"
+}
+
+[deps]
+
+source_file="res://legogame/newlocation/lord/EXTRASSS_ANIMSOPENWITH3_13.png-1.png"
+dest_files=["res://.godot/imported/EXTRASSS_ANIMSOPENWITH3_13.png-1.png-1e63649a83780b1196f45e0af998e706.s3tc.ctex", "res://.godot/imported/EXTRASSS_ANIMSOPENWITH3_13.png-1.png-1e63649a83780b1196f45e0af998e706.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cuvsidif4rx6e"]
+
+[ext_resource type="Texture2D" uid="uid://c4w4ob1sow4w4" path="res://legogame/newlocation/outside1_Untitled.png" id="1_5y7r7"]
+
+[resource]
+resource_name = "kondey"
+cull_mode = 2
+albedo_texture = ExtResource("1_5y7r7")
+roughness = 0.5

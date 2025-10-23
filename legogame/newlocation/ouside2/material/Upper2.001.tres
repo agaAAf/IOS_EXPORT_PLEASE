@@ -1,0 +1,14 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://c3gpemquwbthb"]
+
+[ext_resource type="Texture2D" uid="uid://dpubrt36rgtuv" path="res://legogame/newlocation/ouside2/office2out_ComfyUI_temp_dbgdv_00004_.png" id="1_ggubi"]
+[ext_resource type="Texture2D" uid="uid://buwbgamtigadr" path="res://legogame/newlocation/ouside2/office2out_Normals_0004.png" id="2_qmumc"]
+
+[resource]
+resource_name = "Upper2.001"
+cull_mode = 2
+albedo_texture = ExtResource("1_ggubi")
+roughness = 0.5
+normal_enabled = true
+normal_texture = ExtResource("2_qmumc")
+uv1_scale = Vector3(4, 4, 1)
+uv1_offset = Vector3(0, -3, 0)

@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ds2bj737n0qxg"
+path.s3tc="res://.godot/imported/SIMCARDS_coffeshop.png-abe59c4c99adbf12d97e5e7402281773.s3tc.ctex"
+path.etc2="res://.godot/imported/SIMCARDS_coffeshop.png-abe59c4c99adbf12d97e5e7402281773.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "6e93c2e72fbac80c4789338bf69b298a"
+}
+
+[deps]
+
+source_file="res://scene/airport/SIMCARDS_coffeshop.png"
+dest_files=["res://.godot/imported/SIMCARDS_coffeshop.png-abe59c4c99adbf12d97e5e7402281773.s3tc.ctex", "res://.godot/imported/SIMCARDS_coffeshop.png-abe59c4c99adbf12d97e5e7402281773.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

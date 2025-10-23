@@ -1,0 +1,14 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://3k5g8mexbgdr"]
+
+[ext_resource type="Texture2D" uid="uid://c7ihqf8nai44k" path="res://legogame/newlocation/ouside2/office2out_ComfyUI_00220_.png" id="1_smxkr"]
+[ext_resource type="Texture2D" uid="uid://geeemdg4ujlx" path="res://legogame/newlocation/ouside2/office2out_ComfyUI_Normals_00148_.png" id="2_88dto"]
+
+[resource]
+resource_name = "cement"
+cull_mode = 2
+albedo_texture = ExtResource("1_smxkr")
+roughness = 0.5
+normal_enabled = true
+normal_texture = ExtResource("2_88dto")
+uv1_scale = Vector3(13.35, 0.94, 1)
+uv1_offset = Vector3(0, 0.06, 0)

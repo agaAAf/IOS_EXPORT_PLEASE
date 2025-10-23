@@ -1,0 +1,13 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://b5nc8i1mq60pn"]
+
+[ext_resource type="Texture2D" uid="uid://dnt78a5awglps" path="res://legogame/newlocation/outside1_PNG1.png" id="1_7v0xp"]
+
+[resource]
+resource_name = "PNG1"
+transparency = 2
+alpha_scissor_threshold = 0.5
+alpha_antialiasing_mode = 0
+cull_mode = 2
+albedo_texture = ExtResource("1_7v0xp")
+roughness = 0.5
+texture_repeat = false

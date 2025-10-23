@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://corsac74jkj0a"]
+
+[ext_resource type="Texture2D" uid="uid://bnxkctavy8h4h" path="res://legogame/newlocation/outside1_Japanese_Wood.jpg" id="1_1s65m"]
+
+[resource]
+resource_name = "Japanese_Wood"
+cull_mode = 2
+albedo_texture = ExtResource("1_1s65m")

@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bs8xd5tcr1s3n"]
+
+[resource]
+resource_name = "down"
+blend_mode = 1
+cull_mode = 2
+albedo_color = Color(0, 0, 0, 1)
+roughness = 0.5
+emission_enabled = true
+emission = Color(1, 1, 1, 1)
+emission_energy_multiplier = 20.0

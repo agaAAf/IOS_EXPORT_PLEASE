@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://c027ryf85ncyc"]
+
+[ext_resource type="Texture2D" uid="uid://gwwseimfm1nr" path="res://legogame/newlocation/outside1_Untitled_27.png" id="1_xmhvc"]
+
+[resource]
+resource_name = "top"
+cull_mode = 2
+albedo_texture = ExtResource("1_xmhvc")
+roughness = 0.5

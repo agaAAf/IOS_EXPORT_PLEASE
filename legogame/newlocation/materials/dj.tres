@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dwbfdroijr150"]
+
+[ext_resource type="Texture2D" uid="uid://cs30dcuf5bail" path="res://legogame/newlocation/just_office3_dj Base Color.png" id="1_yo2vr"]
+
+[resource]
+resource_name = "dj"
+cull_mode = 2
+albedo_texture = ExtResource("1_yo2vr")
+roughness = 0.5

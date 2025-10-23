@@ -1,0 +1,5 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://6w5n5it103sv"]
+
+[resource]
+resource_name = "FrontColor"
+cull_mode = 2

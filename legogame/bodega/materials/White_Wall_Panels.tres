@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bh0foditseth2"]
+
+[ext_resource type="Texture2D" uid="uid://d2ed60tua4ngc" path="res://legogame/bodega/bodega_doors_White_Wall_Panels.jpg" id="1_iqrp3"]
+
+[resource]
+resource_name = "White_Wall_Panels"
+cull_mode = 2
+albedo_texture = ExtResource("1_iqrp3")

@@ -1,0 +1,15 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://ew4krxokegar"]
+
+[ext_resource type="Texture2D" uid="uid://db1ohi33wfcxd" path="res://legogame/newlocation/just_office3_ComfyUI_00209_.png" id="1_6fl1j"]
+[ext_resource type="Texture2D" uid="uid://bcew78653js1o" path="res://legogame/newlocation/just_office3_ComfyUI_Normals_00137_.png" id="2_rk1yp"]
+
+[resource]
+resource_name = "fron"
+cull_mode = 2
+albedo_texture = ExtResource("1_6fl1j")
+roughness = 0.5
+normal_enabled = true
+normal_scale = 1.1
+normal_texture = ExtResource("2_rk1yp")
+uv1_scale = Vector3(4, 4, 1)
+uv1_offset = Vector3(0, -3, 0)

@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dxdlki7jo2tae"]
+
+[ext_resource type="Texture2D" uid="uid://bkkrcmdb5fqe8" path="res://legogame/bodega/bodega_doors_M_970cfbed_f13d_477a_92de_707215cbddb5.png" id="1_i68ac"]
+
+[resource]
+resource_name = "M_970cfbed_f13d_477a_92de_707215cbddb5"
+transparency = 4
+cull_mode = 2
+albedo_texture = ExtResource("1_i68ac")

@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bxfgjyfi4iw8s"
+path.s3tc="res://.godot/imported/outside_stoyka Base Color.png-534921757cf39a2c133755c8f6109a6b.s3tc.ctex"
+path.etc2="res://.godot/imported/outside_stoyka Base Color.png-534921757cf39a2c133755c8f6109a6b.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "c6cbb7fb619323be7b22e21a48f3f5cc"
+}
+
+[deps]
+
+source_file="res://legogame/outside/outside_stoyka Base Color.png"
+dest_files=["res://.godot/imported/outside_stoyka Base Color.png-534921757cf39a2c133755c8f6109a6b.s3tc.ctex", "res://.godot/imported/outside_stoyka Base Color.png-534921757cf39a2c133755c8f6109a6b.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

@@ -1,0 +1,7 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://cyuu5tk6udwfm"]
+
+[ext_resource type="Shader" path="res://character/materials/torsonew.gdshader" id="1_scpmv"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_scpmv")

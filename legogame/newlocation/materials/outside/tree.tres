@@ -1,0 +1,57 @@
+[gd_resource type="ShaderMaterial" load_steps=5 format=3 uid="uid://b3fepdl7g47ku"]
+
+[ext_resource type="Shader" path="res://legogame/leaves.gdshader" id="1_2jpnm"]
+[ext_resource type="Texture2D" uid="uid://bssuccyump6xi" path="res://legogame/newlocation/ouside2/leavesbrushapha256.png" id="2_h557o"]
+
+[sub_resource type="Shader" id="Shader_og1fa"]
+code = "shader_type spatial;
+
+uniform vec4 color_bottom : source_color = vec4(0.0, 0.0, 0.0, 0.8);
+uniform vec4 color_top    : source_color = vec4(0.0, 0.0, 0.0, 0.0);
+
+uniform float min_height = 0.0;
+uniform float max_height = 3.0;
+
+varying vec3 world_position;
+
+void vertex() {
+	world_position = (MODEL_MATRIX * vec4(VERTEX.xy, 0.0, 1.0)).xyz;
+}
+
+void fragment() {
+	float height = world_position.y - NODE_POSITION_WORLD.y;
+
+	float factor = clamp((height - min_height) / (max_height - min_height), 0.0, 1.0);
+
+	ALBEDO = mix(color_bottom.rgb, color_top.rgb, factor);
+	ALPHA = mix(color_bottom.a, color_top.a, factor);
+}"
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_3ybhh"]
+render_priority = 0
+shader = SubResource("Shader_og1fa")
+shader_parameter/color_bottom = Color(0, 0.37, 0.111, 1)
+shader_parameter/color_top = Color(0, 0, 0, 0)
+shader_parameter/min_height = 0.0
+shader_parameter/max_height = 7.805
+
+[resource]
+resource_name = "GobotMat"
+render_priority = 0
+next_pass = SubResource("ShaderMaterial_3ybhh")
+shader = ExtResource("1_2jpnm")
+shader_parameter/texture_scale = Vector2(1, 1)
+shader_parameter/alpha_threshold = 0.1
+shader_parameter/foliage_colour = Color(0.13, 0.33, 0.25, 1)
+shader_parameter/color_strength = 1.0
+shader_parameter/fresnel_colour = Color(0.5, 0.7, 0.4, 1)
+shader_parameter/fresnel_strength = 0.3
+shader_parameter/fresnel_power = 1.5
+shader_parameter/billboard_strength = 1.0
+shader_parameter/vertex_offset_scale = Vector2(1, 1)
+shader_parameter/flip_normal = true
+shader_parameter/use_wind = true
+shader_parameter/wind_strength = 0.1
+shader_parameter/wind_speed = 1.0
+shader_parameter/wind_direction = Vector3(1, 0, 0)
+shader_parameter/foliage_texture = ExtResource("2_h557o")
